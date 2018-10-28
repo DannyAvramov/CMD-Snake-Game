@@ -6,7 +6,7 @@
 //              command prompt.                    //
 /////////////////////////////////////////////////////
 */
-#include <Avramov\console.h> // #include "console.h"
+#include "console.h"
 #include "Draw.h"
 #include "Input.h"
 #include "Logic.h"
