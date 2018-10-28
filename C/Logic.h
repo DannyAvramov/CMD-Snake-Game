@@ -2,7 +2,7 @@
 #define LOGIC_H
 #include "Draw.h"
 #include "Input.h"
-#include <Avramov\console.h>
+#include "console.h"
 #include <time.h>
 // I'm lazy
 #define RAND(x) Random(2, x, 4)
