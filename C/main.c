@@ -12,7 +12,7 @@
 #include "Logic.h"
 
 int main(int argc, char *argv[]) {
-	setWindow("Snake Game", 43, 32, true, false, false, false, true, false);
+	setWindow("Snake Game", 43, 32, true, false, false, false, false, false);
 	SetConsoleMode(GetStdHandle(STD_INPUT_HANDLE), ENABLE_MOUSE_INPUT | ENABLE_EXTENDED_FLAGS); // Disables input from mouse
 	srand((unsigned short)(time(0)));
 	/// Draw
