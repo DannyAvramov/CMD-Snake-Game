@@ -7,7 +7,7 @@ A Command Prompt Snake game inspired by [NVitanovic](https://github.com/NVitanov
 Works best with [Microsoft Visual Studio IDE](https://www.visualstudio.com/downloads) because of it's native [Windows.h](https://msdn.microsoft.com/en-us/library/windows/desktop/aa383745(v=vs.85).aspx) file that powers the command prompt.
 
 ### Updates
-- [ ] Added C Version 
-- [ ] Added C++ Version
+- [x] Added C Version 
+- [x] Added C++ Version
 - [ ] Added Some Screenshots
 - [ ] Polish Respitory
