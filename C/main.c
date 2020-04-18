@@ -1,6 +1,6 @@
 /*
 /////////////////////////////////////////////////////
-// Created  By: Danny Avramov  (Danilo Avramovski) //
+// Created By: Danny Avramov                       //
 // Description: A simple classic Snake             //
 //              Game made for the Windows          //
 //              command prompt.                    //
